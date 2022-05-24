@@ -1,7 +1,3 @@
 = combining-composables
 
-
-branch :
-
-* starter
-* final
+branch starter:
